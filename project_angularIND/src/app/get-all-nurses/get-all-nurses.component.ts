@@ -6,5 +6,5 @@ import jsonData from '../data/DATA.json';
   styleUrl: './get-all-nurses.component.css'
 })
 export class GetAllNursesComponent {
-
+nurses: any[] = jsonData; 
 }
