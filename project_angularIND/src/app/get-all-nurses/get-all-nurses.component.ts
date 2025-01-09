@@ -7,4 +7,5 @@ import jsonData from '../data/DATA.json';
 })
 export class GetAllNursesComponent {
 nurses: any[] = jsonData; 
+
 }
